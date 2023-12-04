@@ -49,7 +49,9 @@ const metadata = {
         <span class="font-semibold">Fast Crypto Exchange</span> Buy, Sell, And Swap Crypto: Simple, Fast, Free of Custody, Is About 5 Minutes .
 Exchange Limits You Can Exchange Crypto For as Low as $2. At The Same Time, There Are No Upper Limits For Exchange, Even If You Want to Exchange 1000 BTC.</span
       >
-     
+      <span class="block mb-1 sm:hidden font-bold text-blue-600">AstroWind: Production-ready.</span>
+       Suitable for Startups, Small Business, SaaS websites, Professional Portfolios, Marketing websites, Landing Pages
+      & Blogs.
     </Fragment>
   </Hero>
  
