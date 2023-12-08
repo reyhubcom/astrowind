@@ -121,10 +121,10 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Buy Crypto',
+      title: 'Product',
       links: [
-        { text: 'Buy Bitcoin [ BTC ]', href: '#' },
-        { text: 'Buy Ethereum [ ETH ]', href: '#' },
+        { text: 'Features', href: '#' },
+        { text: 'Security', href: '#' },
         { text: 'Team', href: '#' },
         { text: 'Enterprise', href: '#' },
         { text: 'Customer stories', href: '#' },
